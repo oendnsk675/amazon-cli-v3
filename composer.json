@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/climate": "^3.4",
+        "brentkozjak/hash-identify": "~1.0.0"
+    }
+}

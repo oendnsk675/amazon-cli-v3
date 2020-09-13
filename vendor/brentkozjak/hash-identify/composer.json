@@ -1,0 +1,25 @@
+{
+    "name": "brentkozjak/hash-identify",
+    "description": "Identify a hash algorithm based on string input",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Brent Kozjak"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "BrentKozjak\\HashIdentify\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BrentKozjak\\HashIdentify\\Tests\\": "tests"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "jenssegers/model": "^1.2"
+    }
+}

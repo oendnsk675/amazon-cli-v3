@@ -1,0 +1,15 @@
+CHANGELOG
+
+###############   credit  ################ 
+#		   checker cli amazon v2.2		 #
+#			    created by 				 #
+#		  sayidina ahmadal qososyi 	 	 #
+#			  eastlombok team 	 		 #
+#  		  website : eastlombok.xyz       #
+#	 youtube : https://bit.ly/3hhtaqN 	 #
+##########################################
+
+1.lebih clean rasult
+2.support email saja,dan support emasil:password,auto deteksi
+3,lebih cepat
+4,rgb color output,pastikan di jalankan di terminal linux kalau mau rgb,misalkan di termux di android
